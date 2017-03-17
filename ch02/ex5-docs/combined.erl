@@ -1,7 +1,7 @@
 %% @author Simon St.Laurent <simonstl@simonstl.com> [http://simonstl.com]
 %% @doc Functions calculating velocities achieved by objects
 %% dropped in a vacuum.
-%% @reference from <a href= "http://shop.oreilly.com/product/0636920025818.do" >
+%% @reference from <a href= "http://shop.oreilly.com/product/0636920056690.do" >
 %% Introducing Erlang</a>,
 %% O'Reilly Media, Inc., 2017.
 %% @copyright 2017 by Simon St.Laurent

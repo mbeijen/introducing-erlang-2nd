@@ -1,7 +1,7 @@
 %% @author Simon St.Laurent <simonstl@simonstl.com> [http://simonstl.com]
 %% @doc Functions converting velocities among units.
-%% @reference from <a href= "http://shop.oreilly.com/product/0636920025818.do" >Introducing Erlang</a>,
-%% O'Reilly Media, Inc., 2012.
+%% @reference from <a href= "https://shop.oreilly.com/product/0636920056690.do" >Introducing Erlang, 2nd Edition</a>,
+%% O'Reilly Media, Inc., 2017.
 %% @version 0.1
 
 -module(convert).
